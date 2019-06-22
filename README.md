@@ -4,3 +4,5 @@
 ### https://github.com/darenlee/SimulinkARDroneTarget
 ## UDP Python and Matlab test
 ### https://github.com/alduxvm/UDP-tests
+## thingspeak
+https://github.com/adafruit/Adafruit_Python_DHT
