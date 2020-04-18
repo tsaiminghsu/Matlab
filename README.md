@@ -10,6 +10,8 @@
 ### https://dev.px4.io/v1.9.0/en/setup/dev_env_windows_cygwin.html
 ## Pixhawk PX4 AutoPilot how to setup Toolchain and how to upload new firmware
 ### https://www.youtube.com/watch?v=MBJhVrvWomY
+## Installing the toolchain and setting up the development environment
+### https://www.youtube.com/watch?v=9GnEXzSTvwk
 ## Matlab Pixhawk Support Package installation (Windows)
 ### http://chuangrobot.blogspot.com/2018/11/matlab-pixhawk-support-package.html
 ## How to Install and Use the Linux Bash Shell on Windows 10
