@@ -25,6 +25,8 @@
 
 ## bootloader Reload
 ![image](https://github.com/tsaiminghsu/Matlab/blob/master/Matlab2017b_Pixhawk_px4fmu_v2_simulink.png)
+## Test build video
+## https://youtu.be/DRRHJwMmACk
 ## Error Message Solution
 ### https://jp.mathworks.com/matlabcentral/answers/422879-error-building-pixhawk-in-external-mode
 ### http://chuangrobot.blogspot.com/2019/02/solved-attitiude-estimator-not-running.html
